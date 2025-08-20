@@ -37,5 +37,5 @@ Here’s an example of the Play Vs Computer screen:
 
 ---
 
-##📝 License
+## 📝 License
 This project is provided for educational purposes only.
