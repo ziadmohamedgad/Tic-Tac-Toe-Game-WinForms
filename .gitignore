@@ -1,0 +1,76 @@
+# Ignore Visual Studio temporary files, build results, and cache
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+## Auto-generated files
+*.Designer.cs
+*.generated.cs
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*_i.asm
+*_p.asm
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.ncrunchsolution
+*.ncrunchproject
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Others
+*.exe
+*.dll
+*.cache
+*.dbmdl
+*.bak
+*.log
+*.dmp
+*.swp
+*.swo
+*.tmp
+*.db
+*.opendb
+
+# JetBrains Rider
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
